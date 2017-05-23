@@ -30,9 +30,15 @@
 	<script type="text/javascript" src="system/src/js/plugins/forms/inputs/typeahead/handlebars.min.js"></script>
 	<script type="text/javascript" src="system/src/js/plugins/forms/inputs/passy.js"></script>
 	<script type="text/javascript" src="system/src/js/plugins/forms/inputs/maxlength.min.js"></script>
+	<!-- Butoms -->
+	<script type="text/javascript" src="system/src/js/plugins/velocity/velocity.min.js"></script>
+	<script type="text/javascript" src="system/src/js/plugins/velocity/velocity.ui.min.js"></script>
+	<script type="text/javascript" src="system/src/js/plugins/buttons/spin.min.js"></script>
+	<script type="text/javascript" src="system/src/js/plugins/buttons/ladda.min.js"></script>
 
 	<script type="text/javascript" src="system/src/js/core/app.js"></script>
 	<script type="text/javascript" src="system/src/js/pages/form_controls_extended.js"></script>
+	<script type="text/javascript" src="system/src/js/pages/components_buttons.js"></script>
 	<!-- /theme JS files -->
 </head>
 
